@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as t,ah as l}from"./chunks/framework.DNBwxV9x.js";const m=JSON.parse('{"title":"Unsafe","description":"","frontmatter":{},"headers":[],"relativePath":"unsafe.md","filePath":"unsafe.md"}'),i={name:"unsafe.md"};function o(n,e,s,p,d,h){return t(),r("div",null,[...e[0]||(e[0]=[l("",6)])])}const w=a(i,[["render",o]]);export{m as __pageData,w as default};
