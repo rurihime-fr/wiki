@@ -1,1 +1,0 @@
-import{_ as a,c as r,o as t,ah as s}from"./chunks/framework.DNBwxV9x.js";const h=JSON.parse('{"title":"Games","description":"","frontmatter":{},"headers":[],"relativePath":"games.md","filePath":"games.md"}'),o={name:"games.md"};function l(i,e,n,d,p,m){return t(),r("div",null,[...e[0]||(e[0]=[s("",8)])])}const f=a(o,[["render",l]]);export{h as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as r,c as a,o as t,ah as l}from"./chunks/framework.DNBwxV9x.js";const d=JSON.parse('{"title":"Useful","description":"","frontmatter":{},"headers":[],"relativePath":"useful.md","filePath":"useful.md"}'),o={name:"useful.md"};function i(n,e,s,p,h,f){return t(),a("div",null,[...e[0]||(e[0]=[l("",10)])])}const b=r(o,[["render",i]]);export{d as __pageData,b as default};

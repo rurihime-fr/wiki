@@ -1,1 +1,0 @@
-import{_ as r,c as a,o as t,ah as l}from"./chunks/framework.DNBwxV9x.js";const m=JSON.parse('{"title":"Android","description":"","frontmatter":{},"headers":[],"relativePath":"android.md","filePath":"android.md"}'),o={name:"android.md"};function i(n,e,s,d,p,h){return t(),a("div",null,[...e[0]||(e[0]=[l("",16)])])}const f=r(o,[["render",i]]);export{m as __pageData,f as default};
